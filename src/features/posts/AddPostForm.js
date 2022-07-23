@@ -24,7 +24,7 @@ const AddPostForm = () => {
                     id="postContent"
                     name="postContent"
                     value={content}
-                    onChange={onContentCHanged}
+                    onChange={onContentChanged}
                 />
             </form>
         </section>
